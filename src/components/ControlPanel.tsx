@@ -312,10 +312,10 @@ export const ControlPanel: React.FC<ControlPanelProps> = ({
           <span className="footer-desc">Creative Technologist — Specializing in WebGL, Three.js & AI Web Integrations.</span>
         </div>
         <div className="cta-buttons">
-          <a href="https://www.upwork.com" target="_blank" rel="noopener noreferrer" className="cta-link hire">
+          <a href="https://www.upwork.com/freelancers/~01c743dbd4dafb51c7?mp_source=share" target="_blank" rel="noopener noreferrer" className="cta-link hire">
             HIRE ME ON UPWORK
           </a>
-          <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="cta-link portfolio">
+          <a href="https://github.com/Tryharder782" target="_blank" rel="noopener noreferrer" className="cta-link portfolio">
             GITHUB PORTFOLIO
           </a>
         </div>
